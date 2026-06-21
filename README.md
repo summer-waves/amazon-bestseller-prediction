@@ -1,7 +1,7 @@
 # Predicting Amazon Best Sellers
 ### A Predictive Modeling Study on 1.4 Million Product Listings
 
-**Course:** STA 6933 — Advanced Topics in Statistical Learning  
+**Course:** STA 6933 — Advanced Topics in Statistical Learning | The University of Texas at San Antonio, Spring 2026 
 **Contributors:** Dulce Ximena Cid Sanabria & Marco Alejandro Ortiz  
 
 ---
