@@ -426,7 +426,6 @@ The results validate this choice: the SVM (which approximates what a shallow neu
 ```
 amazon-bestseller-prediction/
 ├── data/
-│   ├── amazon_products.csv         # 1.4M product listings (see note below)
 │   └── amazon_categories.csv       # Category ID lookup table
 ├── figures/
 │   ├── class_imbalance.png
@@ -444,10 +443,13 @@ amazon-bestseller-prediction/
 ├── report/
 │   ├── milestone4_v3.Rmd           # Full analysis in R Markdown
 │   └── milestone4_v3.pdf           # Knitted PDF report
-└── README.md
+├── .gitignore
+├── README.md
+└── analysis.R                      
 ```
 
-> **Data note:** `amazon_products.csv` may exceed GitHub's 100 MB file size limit.
+> **Data note:** `amazon_products.csv` is excluded from this repository due to GitHub's 100 MB file size limit.
+> Download it from [Kaggle — Amazon Products Dataset](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products) 
 
 ---
 
